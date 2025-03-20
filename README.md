@@ -1,1 +1,1 @@
-# openvino.github.io
+# openvinotoolkit.github.io
